@@ -23,6 +23,16 @@
         "id": "https://sophiamscoco.github.io/Sophia-moscoso/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sophiamscoco.github.io/Sophia-moscoso/annotations/meshes-of-the-afternoon-canvas-1-object-in-mis-en-scene-.json",
+            "label": {
+              "none": ["Object in mis-en-scene "]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://sophiamscoco.github.io/Sophia-moscoso/meshes-of-the-afternoon/canvas-1/paintings",
